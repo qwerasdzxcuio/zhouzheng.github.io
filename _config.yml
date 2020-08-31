@@ -1,0 +1,24 @@
+title: Zheng Zhou (郑洲)
+url: "https://zznotics.github.io/"
+#baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+#footer: yes
+#footer_url: "https://zznotics.github.io/"
+#footer_text: "Welcome to my homepage"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Resume"
+   link: "resume.pdf"
+# - name: "Contact"
+#   link: "contact"
