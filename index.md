@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="zhengzhou.jpeg">
 
 Hi! My name is Zhou Zheng, and I am currently a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color=Blue>Kensaku Mori</font>](http://www.newves.org/wiki/).
 
