@@ -2,32 +2,30 @@
 layout: default
 ---
 
-## About Me
+## Biography
 
 <img class="profile-picture" src="zhengzhou.jpg">
 
-Hi! My name is Zhou Zheng, and I am going to be a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color=Blue>Kensaku Mori</font>](http://www.newves.org/wiki/).
+Hi! My name is Zhou Zheng, and I am going to be a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color="#006666">Kensaku Mori</font>](http://www.newves.org/wiki/).
 
-Previously, I received the Master degree from Institute of Mechanical Engineering in Zhejiang University, and my thesis is about Research of the Segmentation Method for Liver and Liver Tumor in CT Images Based on A Unified Level Set Framework.
+I received the Master degree from Institute of Mechanical Engineering in Zhejiang University in March 2019, and my thesis is about research of the segmentation method for liver and liver tumor in CT images based on a unified level set framework. After that, I worked as a software and algorithm engineer in [<font color="#006666">Huawei Technologies Co., Ltd</font>](https://en.wikipedia.org/wiki/Huawei).
 
-My research interest is about medical image analysis. I was obsessed with the application of level set algorithm in medical image analysis before, now I am dedicated to designing efficient machine learning methods for medical image analysis, especially unsupervised models.
+My research interest is about medical image analysis. I was obsessed with the application of level set algorithm in medical image analysis, now I am dedicated to designing efficient machine learning methods for medical image analysis, especially unsupervised models.
 
 ## Publications
 
-1. A unified level set framework combining hybrid algorithms for liver and liver tumor segmentation in CT images.   
+1. [<font color="#006666">A unified level set framework combining hybrid algorithms for liver and liver tumor segmentation in CT images.</font>]   
    **Zhou Zheng**, Xuechang Zhang, Huafei Xu, Wang Liang, Siming Zheng and Yueding Shi  
    *Biomed Research International, 2018.*
-2. Liver segmentation in CT images based on region-growing and unified level set method.  
+2. [<font color="#006666">Liver segmentation in CT images based on region-growing and unified level set method.</font>]  
    **Zhou Zheng**, Xuechang Zhang, Siming Zheng, Huafei Xu and Yueding Shi  
    *Journal of Zhejiang University (Engineering Science), 2018.*
-3. Semi-automatic Liver Segmentation in CT Images Through Intensity Separation and Region Growing.  
+3. [<font color="#006666">Semi-automatic Liver Segmentation in CT Images Through Intensity Separation and Region Growing.</font>]  
    **Zhou Zheng**, Xuechang Zhang, Siming Zheng, Huafei Xu and Yueding Shi  
    *Procedia Computer Science, 2018.*
 
 ## Awards
-* Excellent Graduate Award of Zhejiang University, 2019
-* Academic Scholarship of Zhejiang University, 2017-2019
-* Merit Student of Zhejiang University, 2018
-* Excellent Student of Zhejiang University, 2018
-* Hengli Scholarship of Institute of Mechanical Engineering, Zhejiang University, 2017
-* Jianchen Scholarship of Institute of Mechanical Engineering, Zhejiang University, 2017
+* Award of Excellent postgraduate students of Zhejiang University, 2019
+* Academic Scholarship of Zhejiang University, 2016 - 2019
+* Award of Merit/Triple A for graduate of Zhejiang University, 2017 - 2018
+* Award of Honor for graduate of Zhejiang University, 2017 - 2018
