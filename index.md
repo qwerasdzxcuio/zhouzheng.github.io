@@ -10,6 +10,8 @@ Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Te
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/zznotics)
 
+Hi! My name is Zheng Zhou, and I am currently a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color=Blue>Kensaku Mori</font>](http://www.newves.org/wiki/). Previously, I received the Master degree from Institue of Mechanical Engineering in Zhejiang University.
+
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
