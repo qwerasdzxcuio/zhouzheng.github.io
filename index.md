@@ -4,14 +4,14 @@ layout: default
 
 ### Phd Candidate
 
+<img class="profile-picture" src="zhengzhou.jpg">
+
 Department of Intelligent Science,  
 Graduate School of Informatics, Nagoya University
 
 **Email**: zznotics at gmail dot com
 
 ### Biography
-
-<img class="profile-picture" src="zhengzhou.jpg">
 
 My name is Zhou Zheng, and I am going to be a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color="#006666">Kensaku Mori</font>](http://www.newves.org/wiki/).
 
