@@ -2,12 +2,12 @@
 layout: default
 ---
 
-### PHD Candidate
+### Phd Candidate
 
 Department of Intelligent Science
 Graduate School of Informatics, Nagoya University
 
-Email：zznotics at gamil dot com
+Email：zznotics at gmail dot com
 
 ### Biography
 
