@@ -2,14 +2,17 @@
 layout: default
 ---
 
-### Phd Candidate
+### PhD Candidate
 
 <img class="profile-picture" src="zhengzhou.jpg">
 
 Department of Intelligent Science,  
-Graduate School of Informatics, Nagoya University
+Graduate School of Informatics,  
+Nagoya University
 
-**Email**: zznotics at gmail dot com
+**Email**: zznotics at gmail dot com  
+
+<a href="https://scholar.google.com/citations?user=xL-3an4AAAAJ&hl=zh-CN&oi=sra" target="_blank"><img src="google_scholar.png" /></a>
 
 ### Biography
 
