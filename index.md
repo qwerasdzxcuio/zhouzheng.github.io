@@ -4,10 +4,10 @@ layout: default
 
 ### Phd Candidate
 
-Department of Intelligent Science
+Department of Intelligent Science,  
 Graduate School of Informatics, Nagoya University
 
-Email：zznotics at gmail dot com
+**Email**: zznotics at gmail dot com
 
 ### Biography
 
