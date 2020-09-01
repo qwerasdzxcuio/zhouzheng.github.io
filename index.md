@@ -14,7 +14,7 @@ My research interest is about medical image analysis. I was obsessed with the ap
 
 ## Publications
 
-1. **A Unified Level Set Framework Combining Hybrid Algorithms for Liver and Liver tumor Segmentation in CT Images.**  
+1. **A Unified Level Set Framework Combining Hybrid Algorithms for Liver and Liver tumor Segmentation in CT Images.**<a  href="http://www.imooc.com"  title="点击进入慕课网">click here!</a>  
    **Zhou Zheng**, Xuechang Zhang, Huafei Xu, Wang Liang, Siming Zheng and Yueding Shi  
    *Biomed Research International, 2018.*
 2. **Liver Segmentation in CT Images Based on Region-growing and Unified Level Set Method.**  
