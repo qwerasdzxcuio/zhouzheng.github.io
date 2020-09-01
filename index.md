@@ -12,7 +12,7 @@ Nagoya University
 
 **Email**: zznotics at gmail dot com  
 
-<a href="https://scholar.google.com/citations?user=xL-3an4AAAAJ&hl=zh-CN&oi=sra" target="_blank"><img src="google_scholar.png" align="left" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=xL-3an4AAAAJ&hl=zh-CN&oi=sra" target="_blank"><img src="google_scholar.png" style="float:left" height="30" width="30" /></a>
 
 ### Biography
 
