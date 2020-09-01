@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="zhengzhou.jpg">
 
-### [<font color="#006666">PhD Candidate</font>]
+### <font color="#006666">PhD Candidate</font>
 
 Department of Intelligent Science,  
 Graduate School of Informatics,  
@@ -12,7 +12,7 @@ Nagoya University
 
 **Email**: zznotics at gmail dot com
 
-### Biography
+### <font color="#006666">Biography</font>
 
 My name is Zhou Zheng, and I am going to be a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, Nagoya University, supervised by Prof. [<font color="#006666">Kensaku Mori</font>](http://www.newves.org/wiki/).
 
@@ -20,7 +20,7 @@ I received the Master degree from [<font color="#006666">Zhejiang University</fo
 
 My research interest is about medical image analysis. I was obsessed with the application of level set algorithm in medical image analysis, now I am dedicated to designing efficient machine learning methods for medical image analysis, especially unsupervised models.
 
-### Publications
+### <font color="#006666">Publications</font>
 
 1. **A Unified Level Set Framework Combining Hybrid Algorithms for Liver and Liver tumor Segmentation in CT Images.**<a href="demo.html" target="_blank" title="click here to see the demo!">\[demo\]</a>  
    **Zhou Zheng**, Xuechang Zhang, Huafei Xu, Wang Liang, Siming Zheng and Yueding Shi  
@@ -32,7 +32,7 @@ My research interest is about medical image analysis. I was obsessed with the ap
    **Zhou Zheng**, Xuechang Zhang, Siming Zheng, Huafei Xu and Yueding Shi  
    *Procedia Computer Science, 2018.*
 
-### Awards
+### <font color="#006666">Awards</font>
 * Award of Excellent postgraduate students of Zhejiang University, 2019
 * Academic Scholarship of Zhejiang University, 2016 - 2019
 * Award of Merit/Triple A for graduate of Zhejiang University, 2017 - 2018
