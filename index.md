@@ -4,15 +4,13 @@ layout: default
 
 <img class="profile-picture" src="zhengzhou.jpg">
 
-### PhD Candidate
+### [<font color="#006666">PhD Candidate</font>]
 
 Department of Intelligent Science,  
 Graduate School of Informatics,  
 Nagoya University
 
-**Email**: zznotics at gmail dot com  
-
-<a href="https://scholar.google.com/citations?user=xL-3an4AAAAJ&hl=zh-CN&oi=sra" target="_blank"><img src="google_scholar.png" height="30" width="1" /></a>
+**Email**: zznotics at gmail dot com
 
 ### Biography
 
