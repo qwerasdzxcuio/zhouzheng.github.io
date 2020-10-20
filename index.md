@@ -18,7 +18,7 @@ My name is Zhou Zheng, and I am now a first year (2020.10-) Ph.D. student at the
 
 I received the Master degree from [<font color="#006666">Zhejiang University</font>](http://www.zju.edu.cn/english/), and my thesis is about research of the segmentation method for liver and liver tumor in CT images based on a unified level set framework.
 
-I had several industry experiences, like the role as a software and algorithm engineer in <font color="#006666">Huawei Technologies Co., Ltd</font>.
+I had several industry experiences, like the role as a software and algorithm engineer in Huawei Technologies Co., Ltd.
 
 My research interest is about medical image analysis. I was obsessed with the application of level set algorithm in medical image analysis, now I am dedicated to designing efficient machine learning methods for medical image analysis, especially unsupervised models.
 
