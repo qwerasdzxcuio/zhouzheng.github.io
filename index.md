@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="zhengzhou.jpg">
+<img class="profile-picture" src="./personalinfo/zhengzhou.jpg">
 
 ### <font color="#006666">PhD Candidate</font>
 
@@ -24,7 +24,7 @@ My research interest is about medical image analysis. I was obsessed with the ap
 
 ### <font color="#006666">Publications</font>
 
-1. **A Unified Level Set Framework Combining Hybrid Algorithms for Liver and Liver tumor Segmentation in CT Images.**<a href="demo.html" target="_blank" title="click here to see the demo!">\[demo\]</a>  
+1. **A Unified Level Set Framework Combining Hybrid Algorithms for Liver and Liver tumor Segmentation in CT Images.**<a href="./publication/demo.html" target="_blank" title="click here to see the demo!">\[demo\]</a>  
    **Zhou Zheng**, Xuechang Zhang, Huafei Xu, Wang Liang, Siming Zheng and Yueding Shi  
    *Biomed Research International, 2018.*
 2. **Liver Segmentation in CT Images Based on Region-growing and Unified Level Set Method.**  
