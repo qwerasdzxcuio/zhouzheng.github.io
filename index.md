@@ -6,7 +6,7 @@ layout: default
 
 ### <font color="#006666">PhD Candidate</font>
 
-Department of Intelligent Science,  
+Department of Intelligent System,  
 Graduate School of Informatics,  
 Nagoya University
 
@@ -14,7 +14,7 @@ Nagoya University
 
 ### <font color="#006666">Biography</font>
 
-My name is Zhou Zheng, and I am going to be a first year (2020-) Ph.D. student at the Department of Intelligent Science, Graduate School of Informatics, [<font color="#006666">Nagoya University</font>](http://www.nagoya-u.ac.jp/), supervised by Prof. [<font color="#006666">Kensaku Mori</font>](http://www.newves.org/wiki/).
+My name is Zhou Zheng, and I am now a first year (2020.10-) Ph.D. student at the Department of Intelligent System, Graduate School of Informatics, [<font color="#006666">Nagoya University</font>](http://www.nagoya-u.ac.jp/), supervised by Prof. [<font color="#006666">Kensaku Mori</font>](http://www.newves.org/wiki/).
 
 I received the Master degree from [<font color="#006666">Zhejiang University</font>](http://www.zju.edu.cn/english/), and my thesis is about research of the segmentation method for liver and liver tumor in CT images based on a unified level set framework.
 
